@@ -11,7 +11,6 @@ int main(){
             cout<<count;
             count=count+1;
             j=j+1;
-
         }
         i=i+1;
         cout<<endl;
